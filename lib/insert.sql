@@ -44,7 +44,7 @@ INSERT INTO pledges (amount, user, project) VALUES
   (1155,),
   (1059,),
   (581,),
-  (),
+  (2350,),
   (),
   (),
   (),
