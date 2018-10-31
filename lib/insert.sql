@@ -1,4 +1,5 @@
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Need a New Car", "Personal", 10000, 1/1/2018, 12/31/2018);
+
   -- ("Code Class", "Education", 10000, 8/1/2018, 7/31/2019),
   -- ("Career Coaching", "Education", 2000, 6/1/2019, 7/31/2019),
   -- ("Cruise Fund", "Personal", 5000, 7/1/2018, 9/30/2018),
