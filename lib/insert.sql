@@ -13,25 +13,25 @@
     
 INSERT INTO users (name, age) VALUES 
   ("John", 30),
-  ("April", 29);
---   ("Dan", 29),
---   ("Matt", 42),
---   ("Jake", 31),
---   ("Jenny", 24),
---   ("Melinda", 18),
---   ("Larry", 22),
---   ("Rachel", 36),
---   ("Harry", 50),
---   ("Adam", 32)
---   ("Wanda", 46),
---   ("Brian", 40),
---   ("Katie", 19),
---   ("Chad", 21),
---   ("Al", 58),
---   ("Gertrude", 65),
---   ("Donna", 34),
---   ("James", 28),
---   ("Mike", 43);
+  ("April", 29),
+  ("Dan", 29),
+  ("Matt", 42),
+  ("Jake", 31),
+  ("Jenny", 24),
+  ("Melinda", 18),
+  ("Larry", 22),
+  ("Rachel", 36),
+  ("Harry", 50),
+  ("Adam", 32)
+  ("Wanda", 46),
+  ("Brian", 40),
+  ("Katie", 19),
+  ("Chad", 21),
+  ("Al", 58),
+  ("Gertrude", 65),
+  ("Donna", 34),
+  ("James", 28),
+  ("Mike", 43);
   
   
 -- INSERT INTO pledges (amount, user_id, project_id) VALUES
