@@ -11,7 +11,7 @@
 --   ("Lasik", "Medical", 2000, 1/1/2019, 6/30/2019);
   
     
--- INSERT INTO users (name, age) VALUES
+INSERT INTO users (name, age) VALUES ("John", 30);
 --   ("John", 30),
 --   ("April", 29),
 --   ("Dan", 29),
