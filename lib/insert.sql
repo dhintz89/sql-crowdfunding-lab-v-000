@@ -12,9 +12,8 @@
   
     
 INSERT INTO users (name, age) VALUES 
-  ("John", 30);
---   ("John", 30),
---   ("April", 29),
+  ("John", 30),
+  ("April", 29);
 --   ("Dan", 29),
 --   ("Matt", 42),
 --   ("Jake", 31),
