@@ -10,7 +10,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
   ("Dream Concert", "Personal", 250, 11/01/2018, 11/15/2018),
   ("Lasik", "Medical", 2000, 1/1/2019, 6/30/2019);
   
-  
+    
 INSERT INTO users (name, age) VALUES
   ("John", 30),
   ("April", 29),
