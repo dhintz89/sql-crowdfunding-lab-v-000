@@ -37,7 +37,7 @@ INSERT INTO users (name, age) VALUES
 INSERT INTO pledges (amount, user, project) VALUES
   (1368,14,4),
   (105,16,1),
-  (1098,13,),
+  (1098,13,6),
   (959,3,),
   (1293,12,),
   (2159,3,),
